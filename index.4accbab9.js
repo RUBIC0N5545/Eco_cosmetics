@@ -1,0 +1,2 @@
+!function(){var e=arguments.length>0&&void 0!==arguments[0]?arguments[0]:0,t=arguments.length>1&&void 0!==arguments[1]?arguments[1]:0,l=document.getElementsByClassName("main__shop--product--box--img"),n=document.getElementsByClassName("main__shop--product--box--img2");if(0!==e){for(var o=0;o<l.length;o++)l[o].style.display="none";for(var s=0;s<n.length;s++)n[s].style.display="none";var a=document.getElementById(e),d=document.getElementById(t);a.style.display="block",d.style.display="block"}}();
+//# sourceMappingURL=index.4accbab9.js.map
